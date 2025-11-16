@@ -362,10 +362,6 @@
   column-gap: 80px;
 }
 
-.footer__column {
-  display: flex;
-}
-
 .footer__column_content_hours {
   flex-direction: column;
 }
