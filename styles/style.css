@@ -364,6 +364,7 @@
 
 .footer__column_content_hours {
   flex-direction: column;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
@@ -371,7 +372,6 @@
 }
 
 .footer__logo {
-  margin-right: auto;
   width: 58px;
   height: 80px;
 }
